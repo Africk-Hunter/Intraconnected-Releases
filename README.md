@@ -38,7 +38,7 @@ Intraconnected is a visual workspace for ideas, plans and projects. Every idea c
 | Platform | How |
 | --- | --- |
 | Web (desktop or phone browser) | [intraconnected.app](https://intraconnected.app) |
-| Windows 10 and 11 | [Download the installer](https://github.com/Africk-Hunter/intraconnected-releases/releases/latest) |
+| Windows 10 and 11 | [Download the installer](https://intraconnected.app/download) |
 
 Use the same account everywhere. Your ideas sync between devices.
 
