@@ -8,7 +8,7 @@
 
 Intraconnected is a visual workspace for ideas, plans and projects. Every idea can hold more ideas, so a loose thought can grow into a structured plan without you ever having to start over in a new document.
 
-**[Download for Windows](https://github.com/Africk-Hunter/intraconnected-releases/releases/latest)**  ·  [Open in your browser](https://intraconnected.app)
+**[Download on the App Store](https://apps.apple.com/us/app/intraconnected/id6822808580)**  ·  **[Download for Windows](https://github.com/Africk-Hunter/intraconnected-releases/releases/latest)**  ·  [Open in your browser](https://intraconnected.app)
 
 ## Why Intraconnected
 
@@ -37,10 +37,16 @@ Intraconnected is a visual workspace for ideas, plans and projects. Every idea c
 
 | Platform | How |
 | --- | --- |
+| iPhone and iPad | [Download on the App Store](https://apps.apple.com/us/app/intraconnected/id6822808580) |
 | Web (desktop or phone browser) | [intraconnected.app](https://intraconnected.app) |
 | Windows 10 and 11 | [Download the installer](https://intraconnected.app/download) |
 
 Use the same account everywhere. Your ideas sync between devices.
+
+## Installing on iPhone and iPad
+
+1. Open [Intraconnected on the App Store](https://apps.apple.com/us/app/intraconnected/id6822808580) on your device and tap **Get**.
+2. Sign in, or create an account.
 
 ## Installing on Windows
 
@@ -51,7 +57,7 @@ Use the same account everywhere. Your ideas sync between devices.
 
 ## Updates
 
-The desktop app gets new versions from this page. To check for an update, open **Profile > Data > Desktop App** in the app.
+The iPhone and iPad app updates through the App Store. The desktop app gets new versions from this page. To check for an update, open **Profile > Data > Desktop App** in the app.
 
 ## Help
 
